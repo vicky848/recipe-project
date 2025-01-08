@@ -1,0 +1,20 @@
+.submit-button{
+    height: 34px;
+    width: 134px;
+    background-color: #5CB85C;
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+
+
+
+}
+.contact-heading{
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
